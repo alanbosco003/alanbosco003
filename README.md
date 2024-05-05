@@ -26,3 +26,4 @@
 ⚡ Fun Fact: I enjoy experimenting with different programming languages, including SwiftUI and Swift.
 Thanks for stopping by! Let's connect and build something awesome together! 🚀
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alanbosco003)](https://github.com/anuraghazra/github-readme-stats)
